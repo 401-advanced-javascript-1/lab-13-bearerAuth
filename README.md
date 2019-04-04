@@ -5,7 +5,7 @@ This lab contains a working server with basic auth and OAuth.  The assignment re
 ## Links and Resources
 - [Github Repo](https://github.com/401-advanced-javascript-1/lab-13-bearerAuth/tree/submission)
 - [Travis](https://www.travis-ci.com/401-advanced-javascript-1/lab-13-bearerAuth)
-- [Heroku] (https://blooming-eyrie-20362.herokuapp.com/)
+- [Heroku](https://blooming-eyrie-20362.herokuapp.com/)
 
 ## Documentation
 
